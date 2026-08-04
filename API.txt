@@ -1,1 +1,1 @@
-https://phase-derived-quilt-pick.trycloudflare.com
+https://api.trycloudflare.com
